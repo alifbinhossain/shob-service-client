@@ -8,7 +8,7 @@ import img7 from "../images/services/electrician.svg";
 import img8 from "../images/services/plumbers.svg";
 import img9 from "../images/services/painting.svg";
 import img10 from "../images/services/carpenter.svg";
-export const services = [
+const services = [
   {
     id: 1,
     title: "AC Service/Repair",
@@ -60,3 +60,5 @@ export const services = [
     img: img10,
   },
 ];
+
+export default services;
