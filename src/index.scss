@@ -1,0 +1,17 @@
+// IMPORTING ABSTRACT FILES
+@import "./sass/abstracts/variables.scss";
+
+//IMPORTING BASE FILES
+@import "./sass/base/base.scss";
+@import "./sass/base/typography.scss";
+
+//IMPORTING COMPONENTS
+@import "./sass/components/hero.scss";
+@import "./sass/components/heroServices.scss";
+
+//IMPORTING LAYOUTS
+@import "./sass/layouts/header.scss";
+@import "./sass/layouts/footer.scss";
+
+//IMPORTING PAGES
+@import "./sass/pages/home.scss";
