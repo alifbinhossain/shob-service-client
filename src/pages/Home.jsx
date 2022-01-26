@@ -1,6 +1,7 @@
 import React from "react";
 import Hero from "../views/Components/Hero/Hero";
 import HeroServices from "../views/Components/Hero/HeroServices";
+// import Footer from "../views/Layouts/Footer/Footer";
 import Header from "../views/Layouts/Header/Header";
 
 const Home = () => {

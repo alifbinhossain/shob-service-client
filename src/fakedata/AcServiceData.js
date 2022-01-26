@@ -1,4 +1,5 @@
-import AC from "../asset/ac-icon.svg"
+// import AC from "../asset/ac-icon.svg"
+import AC from "../images/ac-icon.svg"
 
 export const AC_SERVICE_DATA = [
     {

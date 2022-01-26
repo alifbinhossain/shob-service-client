@@ -1,10 +1,14 @@
 import Home from "./pages/Home";
-
+import Footer from "./views/Layouts/Footer/Footer";
+import { BrowserRouter as Router,
+  Route,
+} from "react-router-dom";
 function App() {
   return (
-    <div>
+    <Router>
       <Home></Home>
-    </div>
+      <Footer/>
+    </Router>
   );
 }
 

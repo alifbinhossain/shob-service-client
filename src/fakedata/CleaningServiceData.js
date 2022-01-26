@@ -1,9 +1,9 @@
-import sofaCleaning from "../asset/Sofa-cleaning.svg"
-import homeCleaning from "../asset/house cleaning.svg"
-import washroomCleaning from "../asset/washroom cleaning.svg"
-import kitchenCleaning from "../asset/kitchen cleaning.svg"
-import floorCleaning from "../asset/floor cleaning.svg"
-import carpetCleaning from "../asset/carpet cleaning.svg"
+import sofaCleaning from "../images/Sofa-cleaning.svg"
+import homeCleaning from "../images/house cleaning.svg"
+import washroomCleaning from "../images/washroom cleaning.svg"
+import kitchenCleaning from "../images/kitchen cleaning.svg"
+import floorCleaning from "../images/floor cleaning.svg"
+import carpetCleaning from "../images/carpet cleaning.svg"
 
 export const CLEANING_SERVICE_DATA = [
   {
