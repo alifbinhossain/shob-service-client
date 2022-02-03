@@ -1,7 +1,7 @@
-import carWash from "../asset/car-wash.svg"
-import carCeramic from "../asset/car icon.svg"
-import carAc from "../asset/air-conditioner.svg"
-import carPanting from "../asset/car-painting.svg"
+import carWash from "../images/car-wash.svg"
+import carCeramic from "../images/car icon.svg"
+import carAc from "../images/air-conditioner.svg"
+import carPanting from "../images/car-painting.svg"
 export const CAR_CARE_SERVICE = [
     {
         id: '1',

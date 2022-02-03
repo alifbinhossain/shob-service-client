@@ -1,0 +1,48 @@
+.modal-content{
+    padding: 20px;
+    border-radius: 25px ;
+
+    .serviceModal__header{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        p{
+            font-size: 20px;
+            margin: 0;
+            width:95%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        button{
+            width:5%;
+        }
+    }
+
+    .serviceModal__body{
+        margin-top: 30px;
+        
+        .serviceModal__body__contents{
+            display: flex;
+            justify-content: center;
+        }
+        .serviceModal__body__content{
+            margin-bottom: 15px;
+            width: 60%;
+            display: flex;
+            align-items: center;
+            border: 2px solid #1CBE32;
+            border-radius: 10px;
+            img{
+                height: 40px;
+                margin: 5px;
+                margin-left: 10px;
+            }
+            p{
+                margin: 0 10px;
+                font-size: 14px;
+            }
+        }
+    }
+}

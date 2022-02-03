@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Col } from 'react-bootstrap';
-import ServiceModal from '../../../sass/components/ServiceModal';
+import ServiceModal from '../ServiceModal/ServiceModal';
 
 const ServiceItems = ({img, title, ...othersProps}) => {
   // console.log(othersProps);

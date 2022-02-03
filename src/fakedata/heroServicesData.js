@@ -10,6 +10,7 @@ import img9 from "../images/services/painting.svg";
 import img10 from "../images/services/carpenter.svg";
 import { AC_SERVICE_DATA } from "./AcServiceData";
 import { CLEANING_SERVICE_DATA } from "./CleaningServiceData";
+import { CAR_CARE_SERVICE } from "./Car&CareServiceData";
 const services = [
   {
     id: 1,
@@ -33,7 +34,7 @@ const services = [
     id: 4,
     title: "Car Care & Service",
     img: img4,
-    SERVICE_DATA: []
+    SERVICE_DATA: CAR_CARE_SERVICE
   },
   {
     id: 5,

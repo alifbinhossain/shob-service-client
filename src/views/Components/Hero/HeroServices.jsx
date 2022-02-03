@@ -3,7 +3,6 @@ import locationIcon from "../../../images/placeholder.svg";
 import searchIcon from "../../../images/search.svg";
 import { Col, Row } from "react-bootstrap";
 import services from "../../../fakedata/heroServicesData";
-import ServiceModal from "../../../sass/components/ServiceModal";
 import ServiceItems from "../ServiceItems/ServiceItems";
 const HeroServices = () => {
   return (
